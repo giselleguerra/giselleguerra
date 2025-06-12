@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### I'm Giselle Guerra
 
-- 🌱 I’m currently learning HTML, CSS, JavaScript
+- 🌱 I’m currently learning Java
 - 😄 Pronouns: She/Her
 
