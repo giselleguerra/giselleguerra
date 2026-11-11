@@ -59,8 +59,6 @@ Acredito que minha vivência nas áreas administrativas/financeira me deu uma va
 ### 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=giselleguerra&show_icons=true&hide_border=true&bg_color=0D0D0D&text_color=F0EDEA&title_color=FF4D00&icon_color=FF4D00" alt="Giselle's GitHub Stats" />
-  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=giselleguerra&hide_border=true&background=0D0D0D&stroke=FF4D00&ring=FF4D00&fire=FF4D00&currStreakNum=F0EDEA&currStreakLabel=F0EDEA&sideNums=F0EDEA&sideLabels=F0EDEA&dates=F0EDEA" alt="Giselle's GitHub Streak" />
 </div>
 
