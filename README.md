@@ -49,7 +49,7 @@ Acredito que minha vivência nas áreas administrativas/financeira me deu uma va
 | Nome | Descrição | Status | Stacks |
 | :--- | :--- | :---: | :---: |
 | **[Bootcamp Educadados](#)** | Projeto de análise de dados para formação de Analista de Dados | Em andamento | `Power BI` `SQL` `DAX` `Figma`|
-| **[Desafio Educadados - Dashboard Academia](#)** | Dashboard gerencial focado em métricas de faturamento e engajamento de alunos. | Concluído | `Power BI` `SQL`  `DAX` `Figma`|
+| **[Desafio Educadados - Dashboard Academia](https://github.com/giselleguerra/desafiotecnico06_educadados_dashboardacademia)** | Dashboard gerencial focado em métricas de faturamento e engajamento de alunos. | Concluído | `Power BI` `SQL`  `DAX` `Figma`|
 | **[Clone Netflix](https://github.com/giselleguerra/clone-netflix)** | Projeto prático de estudos reproduzindo a interface da plataforma | Concluído | `HTML` `CSS` `JS` |
 | **[Dino Game](https://github.com/giselleguerra/dino-game)** | Recriação do clássico jogo do dinossauro (Projeto de estudos DIO) | Concluído | `JS` `HTML` |
 | **[QR Component](https://github.com/giselleguerra/qr-component)** | Prática de desenvolvimento frontend via Frontend Mentor | Concluído | `CSS` `HTML` |
